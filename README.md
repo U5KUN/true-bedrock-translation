@@ -3,4 +3,4 @@ Change bedrock translation
 
 # To Do
 - [x] Make README.md
-- [ ] Upload true ja_jp.lang
+- [ ] Retranslate ja_jp.lang
